@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.959" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="DS Algo Portal" name="Launch application" time="7.692">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user clicks get button.................................................passed
+And user clicks on signin button............................................passed
+And user enters username and password.......................................passed
+Then user clicks on login button............................................passed
+Then user launches home page................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
