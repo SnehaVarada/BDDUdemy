@@ -20,11 +20,13 @@ public void user_is_on_login_page() {
   @When("user clicks get button")
     public void user_clicks_get_button() {
    lp.button();
+
+System.out.println("hi");
   }
   
    @When("user clicks on signin button")
    public void user_clicks_on_sign_in_button() {
-      lp.signin(); 
+      lp.signin(); ///ttttttttttttttttttt
    }
    
    @When("user enters username and password")
